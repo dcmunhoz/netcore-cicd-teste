@@ -11,7 +11,13 @@ namespace projeto_teste_xunit
         [Fact]
         public void Test2()
         {
-            Assert.True(false);
+            Assert.True(true);
+        }
+
+        [Fact]
+        public void Test3()
+        {
+            Assert.Equal(true, true);
         }
     }
 }
