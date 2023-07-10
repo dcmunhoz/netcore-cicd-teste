@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netcore-cicd-teste", "netcore-cicd-teste\netcore-cicd-teste.csproj", "{ABD0E59C-13E8-48B6-A887-3DE5487E850E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABD0E59C-13E8-48B6-A887-3DE5487E850E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABD0E59C-13E8-48B6-A887-3DE5487E850E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABD0E59C-13E8-48B6-A887-3DE5487E850E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABD0E59C-13E8-48B6-A887-3DE5487E850E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83883FA1-018A-4CFD-83AE-A0BDAFC50935}
+	EndGlobalSection
+EndGlobal
