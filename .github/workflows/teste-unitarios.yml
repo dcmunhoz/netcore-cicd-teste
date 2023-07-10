@@ -26,7 +26,7 @@ jobs:
       run: dotnet restore
       
     - name: Build Testes
-      run: dotnet build .\projeto-teste-xunit\projeto-teste-xunit.csproj -c Release
+      run: dotnet build projeto-teste-xunit\projeto-teste-xunit.csproj -c Release
       
     - name: Executando Testes
-      run: dotnet vstest .\projeto-teste-xunit\bin\Release\net6.0\projeto-teste-xunit.dll
+      run: dotnet vstest projeto-teste-xunit\bin\Release\net6.0\projeto-teste-xunit.dll
