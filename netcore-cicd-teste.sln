@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netcore-cicd-teste", "netcore-cicd-teste\netcore-cicd-teste.csproj", "{ABD0E59C-13E8-48B6-A887-3DE5487E850E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "projeto-teste-xunit", "projeto-teste-xunit\projeto-teste-xunit.csproj", "{23EA5EBF-B677-4ED2-A742-2CB807B44369}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{ABD0E59C-13E8-48B6-A887-3DE5487E850E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABD0E59C-13E8-48B6-A887-3DE5487E850E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABD0E59C-13E8-48B6-A887-3DE5487E850E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23EA5EBF-B677-4ED2-A742-2CB807B44369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23EA5EBF-B677-4ED2-A742-2CB807B44369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23EA5EBF-B677-4ED2-A742-2CB807B44369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23EA5EBF-B677-4ED2-A742-2CB807B44369}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
