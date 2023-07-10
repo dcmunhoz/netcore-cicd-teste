@@ -11,7 +11,7 @@ namespace projeto_teste_xunit
         [Fact]
         public void Test2()
         {
-            Assert.True(true);
+            Assert.True(false);
         }
     }
 }
