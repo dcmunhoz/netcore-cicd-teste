@@ -8,7 +8,7 @@ namespace projeto_teste_xunit
             Assert.Equal(1, 1);
         }
 
-        [Fact]
+        [Fact(Skip = "Teste skip")]
         public void Test2()
         {
             Assert.True(true);
